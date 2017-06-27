@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#53849a</color>
+    <color name="colorPrimaryDark">#09161c</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="cor1">#F2F2F2</color>
+    <color name="cor2">#F5A9D0</color>
+    <color name="cor3">#D0A9F5</color>
+    <color name="cor4">#A9D0F5</color>
+    <color name="cor5">#A9F5D0</color>
+    <color name="cor6">#F2F5A9</color>
+    <color name="cor7">#F3E2A9</color>
+    <color name="cor8">#F5A9A9</color>
+    <color name="cor9">#E1F5A9</color>
+    <color name="cor10">#ECCEF5</color>
+    <color name="cor11">#CECEF6</color>
+    <color name="cor12">#F3E2A9</color>
+    <color name="cor13">#D8D8D8</color>
+    <color name="cor14">#F6CECE</color>
+    <color name="cor15">#E0E0F8</color>
+    <color name="cor16">#FAFAFA</color>
+    <color name="cor17">#BDBDBD</color>
+    <color name="cor18">#F3E2A9</color>
+    <color name="cor19">#CECEF6</color>
+    <color name="cor20">#F7D358</color>
+    <color name="cor21">#F2F5A9</color>
+    <color name="cor22">#CEF6D8</color>
+    <color name="cor23">#F5A9E1</color>
+    <color name="cor24">#CEF6EC</color>
+    <color name="cor25">#BCF5A9</color>
+    <color name="cor26">#A9F5E1</color>
+</resources>

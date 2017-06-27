@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AgendaCliente</string>
+    
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_act_cad_contatos">Contatos</string>
+    <string name="lnl_Nome">Nome</string>
+    <string name="lbl_telefone">Telefone</string>
+    <string name="lbl_email">Email</string>
+    <string name="lbl_endereco">Endereço</string>
+    <string name="lbl_Data_da_OS">Data do Chamado</string>
+    <string name="lbl_descricao_problema">Descrição do Problema</string>
+
+    <string name="lbl_novo">Novo Contato</string>
+    <string name="lbl_salvar">Salvar</string>
+    <string name="lbl_alterar">Alterar</string>
+    <string name="lbl_excluir">Excluir</string>
+
+</resources>
